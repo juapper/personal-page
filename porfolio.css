@@ -1386,7 +1386,7 @@ strong {
 }
 
 #preloader {
-  background: #000 url(/Users/user/Downloads/Portfolio/loading-7.gif) no-repeat center center;
+  background: #000 url(./loading-7.gif) no-repeat center center;
   background-size: 30%;
   height: 100%;
   width: 100%;
