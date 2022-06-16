@@ -719,19 +719,6 @@ strong {
   text-align: center;
 }
 
-.footer-flex-container {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  margin-bottom: 40px;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  text-align: left;
-}
-
 .footer-logo-link {
   max-height: 60px;
   min-width: 60px;
