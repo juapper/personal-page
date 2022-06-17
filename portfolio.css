@@ -4,7 +4,7 @@
   height: 250px;
   border: 0px none #000;
   box-sizing: border-box;
-  transition: 0.1ms;
+  transition: 0.0001ms;
   transform: translate(-50%, -50%);
   border-radius: 1000px;
   background-color: hsla(0, 0%, 100%, 0.9);
