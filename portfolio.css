@@ -225,8 +225,8 @@ strong {
   -ms-flex-pack: justify;
   justify-content: space-between;
   mix-blend-mode: difference;
-  padding-right: 150px;
-  padding-left: 150px;
+  padding-right: 200px;
+  padding-left: 200px;
 }
 
 .nav-menu {
