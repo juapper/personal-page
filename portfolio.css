@@ -733,6 +733,8 @@ div {
   align-items: flex-start;
   font-family: "IBM Plex Sans", sans-serif;
   text-align: center;
+  padding-left: 92px;
+  padding-right: 264px;
 }
 
 .footer-logo-link {
