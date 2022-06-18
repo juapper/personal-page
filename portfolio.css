@@ -11,6 +11,14 @@
   opacity: 1;
 }
 
+.twitter-button{
+  padding-top: 30px;
+}
+
+.linkedin-button{
+  padding-top: 10px;
+}
+
 h2 {
   margin-top: 0px;
   margin-bottom: 10px;
